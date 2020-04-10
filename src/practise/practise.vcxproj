@@ -37,6 +37,7 @@
     <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
+    <EnableASAN>true</EnableASAN>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -145,6 +146,7 @@
   <ItemGroup>
     <ClInclude Include="..\151.hpp" />
     <ClInclude Include="..\22.hpp" />
+    <ClInclude Include="..\94.hpp" />
     <ClInclude Include="preheader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

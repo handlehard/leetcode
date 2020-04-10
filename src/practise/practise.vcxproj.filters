@@ -32,5 +32,8 @@
     <ClInclude Include="..\22.hpp">
       <Filter>algorithm</Filter>
     </ClInclude>
+    <ClInclude Include="..\94.hpp">
+      <Filter>algorithm</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
