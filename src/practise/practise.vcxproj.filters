@@ -38,5 +38,26 @@
     <ClInclude Include="..\100.hpp">
       <Filter>algorithm</Filter>
     </ClInclude>
+    <ClInclude Include="..\101.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\102.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\104.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\322.hpp">
+      <Filter>algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\56.hpp">
+      <Filter>algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\72.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\55.hpp">
+      <Filter>algorithm</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

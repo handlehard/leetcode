@@ -146,9 +146,14 @@
   <ItemGroup>
     <ClInclude Include="..\100.hpp" />
     <ClInclude Include="..\101.hpp" />
+    <ClInclude Include="..\102.hpp" />
     <ClInclude Include="..\104.hpp" />
     <ClInclude Include="..\151.hpp" />
     <ClInclude Include="..\22.hpp" />
+    <ClInclude Include="..\322.hpp" />
+    <ClInclude Include="..\55.hpp" />
+    <ClInclude Include="..\56.hpp" />
+    <ClInclude Include="..\72.hpp" />
     <ClInclude Include="..\94.hpp" />
     <ClInclude Include="preheader.h" />
   </ItemGroup>
